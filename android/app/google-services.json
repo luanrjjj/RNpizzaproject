@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361409007523",
+    "project_id": "pizzarn-ff8d3",
+    "storage_bucket": "pizzarn-ff8d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361409007523:android:bedad522916f87dedd9416",
+        "android_client_info": {
+          "package_name": "com.go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361409007523-iel6dr03nju01gf0amaiobebvhdgh84r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIRAGblZ93qZQEtd2gHJkPhijr46BMMqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361409007523-iel6dr03nju01gf0amaiobebvhdgh84r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
